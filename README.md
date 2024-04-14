@@ -1,5 +1,6 @@
-<h1 align="center">Привет, я Лариса</a> 
+<h1 align="center">Привет, я Лариса!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Фронтенд-разработчик</h3>
 
 <div id="header">
     <p>:woman_technologist: Фронтенд-разработчик в активном поиске работы</p>
@@ -7,7 +8,7 @@
     <p>:fire:Планирую развиваться в сфере IT технологий и писать чистый код</p>
 </div>
 
-### 📧: Связаться со мной:
+### 📧 Contact me:
 
 <div id="badges">
   <a href="https://t.me/kindalova">
@@ -20,7 +21,7 @@
     <img src="https://cdn-icons-png.flaticon.com/128/4494/4494494.png" title="WhatsApp" alt="WhatsApp"  width="25"/>
   </a>
 </div>
-
+***
 ### :computer: Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -34,7 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS"width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
-
+***
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ***
