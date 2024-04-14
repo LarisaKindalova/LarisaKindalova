@@ -1,14 +1,13 @@
-# Привет, Лариса! [](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+<h1 align="center">Привет, я Лариса</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header">
-  <ul list-style="none">
-    <:woman_technologist: Фронтенд-разработчик в активном поиске работы
-    <li>:medal_sports:Выпускница курсов от Яндекс.Практикума</li>
-    <li>:fire:Планирую развиваться в сфере IT технологий и писать чистый код</li>
-  </ul>  
+    <p>:woman_technologist: Фронтенд-разработчик в активном поиске работы</p>
+    <p>:medal_sports:Выпускница курсов от Яндекс.Практикума</p>
+    <p>:fire:Планирую развиваться в сфере IT технологий и писать чистый код</p>
 </div>
 
-### :📧: Контакты:
+### 📧: Связаться со мной:
 
 <div id="badges">
   <a href="https://t.me/kindalova">
@@ -36,5 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-[![codewars](https://www.codewars.com/users/L.kindalova/badges/large)](//https://www.codewars.com/users/L.kindalova)  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+***
+[![codewars](https://www.codewars.com/users/L.kindalova/badges/large)](//https://www.codewars.com/users/L.kindalova)  
